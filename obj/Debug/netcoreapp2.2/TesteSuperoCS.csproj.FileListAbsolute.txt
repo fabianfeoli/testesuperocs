@@ -1,0 +1,14 @@
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\bin\Debug\netcoreapp2.2\TesteSuperoCS.deps.json
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\bin\Debug\netcoreapp2.2\TesteSuperoCS.runtimeconfig.json
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\bin\Debug\netcoreapp2.2\TesteSuperoCS.runtimeconfig.dev.json
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\bin\Debug\netcoreapp2.2\TesteSuperoCS.dll
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\obj\Debug\netcoreapp2.2\TesteSuperoCS.csprojAssemblyReference.cache
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\obj\Debug\netcoreapp2.2\TesteSuperoCS.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\obj\Debug\netcoreapp2.2\TesteSuperoCS.RazorAssemblyInfo.cache
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\obj\Debug\netcoreapp2.2\TesteSuperoCS.RazorAssemblyInfo.cs
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\obj\Debug\netcoreapp2.2\TesteSuperoCS.AssemblyInfoInputs.cache
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\obj\Debug\netcoreapp2.2\TesteSuperoCS.AssemblyInfo.cs
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\obj\Debug\netcoreapp2.2\TesteSuperoCS.RazorTargetAssemblyInfo.cache
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\bin\Debug\netcoreapp2.2\TesteSuperoCS.pdb
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\obj\Debug\netcoreapp2.2\TesteSuperoCS.dll
+C:\Users\Fabian\source\repos\TesteSuperoCS\TesteSuperoCS\obj\Debug\netcoreapp2.2\TesteSuperoCS.pdb
