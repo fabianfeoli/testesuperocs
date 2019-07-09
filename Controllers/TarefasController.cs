@@ -30,7 +30,7 @@ namespace TesteSuperoCS.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<Tarefa>> GetTarefa(string id)
+        public async Task<ActionResult<Tarefa>> GetTarefa(int id)
         {
             var Tarefa = await _context.Tarefas.FindAsync(id);
 
