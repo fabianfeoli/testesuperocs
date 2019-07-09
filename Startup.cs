@@ -30,6 +30,7 @@ namespace TesteSuperoCS
         {
             services.AddDbContext<SuperoDbContext>(options =>
             {
+                Console.Write(Configuration["ConnectionString:supero"]);
                 options.UseNpgsql(Configuration["ConnectionString:supero"],
                     assembly => assembly.MigrationsAssembly(typeof(SuperoDbContext).Assembly.FullName));
             });
