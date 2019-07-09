@@ -60,6 +60,8 @@ namespace TesteSuperoCS
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "TesteSupero.API v1");
             });
+            
+            app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin().AllowCredentials());      //  <---- Added
 
             app.UseHttpsRedirection();
             app.UseMvc();
