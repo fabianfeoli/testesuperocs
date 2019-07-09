@@ -6,6 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using TesteSuperoCS.DAO;
 using TesteSuperoCS.DAO.Models;
+using System;
 
 namespace TesteSuperoCS.Controllers
 {
@@ -74,9 +75,15 @@ namespace TesteSuperoCS.Controllers
         [HttpPost]
         public async Task<ActionResult<Tarefa>> PostTarefa(Tarefa Tarefa)
         {
-            _context.Tarefas.Add(Tarefa);
-            await _context.SaveChangesAsync();
-
+             try
+            {
+                _context.Tarefas.Add(Tarefa);
+                await _context.SaveChangesAsync();
+            }
+            catch(Exception e)
+            {
+                System.Console.WriteLine( e.ToString() );
+            }
             return CreatedAtAction("GetTarefa", new { id = Tarefa.Id }, Tarefa);
         }
 
